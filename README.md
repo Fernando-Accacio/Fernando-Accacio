@@ -13,6 +13,7 @@ Técnico em Informática e desenvolvedor com experiência em suporte SAP, buscan
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=plastic)
+![ABAP](https://img.shields.io/badge/-ABAP-E8274B?logo=abap&logoColor=white&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
